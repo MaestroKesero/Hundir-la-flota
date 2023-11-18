@@ -28,18 +28,18 @@
 
     Los requisitos principales para ejecutar dicho programa son:
 
-      &middot; Disponer de las librerias GNU necesarias (principalmente un S.O basado en Linux)
-      &middot; Pertenecer a un segmento de red debido a el acceso al servidor por parte del cliente (puede correr en loopback)
+      &middot; Disponer de las librerias GNU necesarias (principalmente un S.O basado en Linux)  
+      &middot; Pertenecer a un segmento de red debido a el acceso al servidor por parte del cliente (puede correr en loopback)  
 
 
 # 4. Instrucciones de Instalación.
 
     Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
-   &middot; git clone https://github.com/MaestroKesero/Hundir-la-flota--/
-   &middot; Una vez dentro de la carpeta ejecutar make para compilar el Makefile asociado
-   &middot; Ejecutar el binario del servidor ./servidor 
-   &middot; Ejectuar el binario del cliente ./cliente <ip>
+   &middot; git clone https://github.com/MaestroKesero/Hundir-la-flota--/  
+   &middot; Una vez dentro de la carpeta ejecutar make para compilar el Makefile asociado  
+   &middot; Ejecutar el binario del servidor ./servidor   
+   &middot; Ejectuar el binario del cliente ./cliente <ip>  
 
 
 # 5. Ejemplos de Uso.
