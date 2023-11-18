@@ -1,6 +1,6 @@
-# Hundir-la-flota-
+# Hundir la flota 
 
-# 0. ïndice
+# 0. Indice.
 
     [Subtítulo 1](# 1. Descripción Breve)
     [Subtítulo 2](# 2. Estado del Proyecto)
@@ -12,17 +12,19 @@
     [Subtítulo 8](# 8. Notas a tener en cuenta)
 
 
-# 1. Descripción Breve
+# 1. Descripción Breve.
 
     Programa basado en el juego de mesa "Hundir la flota" el cual está programado en C haciendo uso de estructura Cliente-Servidor usando sockets
       para el intercambio de informacion, en la que varios clientes estableceran conexión al mismo mediante un login y posteriormente establecerán
       partida.
 
-# 2. Estado del Proyecto
+
+# 2. Estado del Proyecto.
 
     El proyecto se encuentra en estado finalizado, con posibles nuevos cambios al mismo.
 
-# 3. Requisitos del Sistema
+
+# 3. Requisitos del Sistema.
 
     Los requisitos principales para ejecutar dicho programa son:
 
@@ -30,7 +32,7 @@
       &middot; Pertenecer a un segmento de red debido a el acceso al servidor por parte del cliente (puede correr en loopback)
 
 
-# 4. Instrucciones de Instalación
+# 4. Instrucciones de Instalación.
 
     Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
@@ -39,7 +41,8 @@
    &middot; Ejecutar el binario del servidor ./servidor 
    &middot; Ejectuar el binario del cliente ./cliente <ip>
 
-# 5. Ejemplos de Uso
+
+# 5. Ejemplos de Uso.
 
     Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
 
@@ -51,7 +54,8 @@
    &middot; Iniciamos partida en el 2º cliente.
    &middot; ¡ A disfrutar !
 
-# 6. Estructura del Proyecto
+
+# 6. Estructura del Proyecto.
 
     El proyecto se estrucutra en 3 ficheros principales.
     
@@ -59,7 +63,8 @@
    &middot; En servidor.h encontramos las funciones esenciales de hundir la flota junto a la logica necesaria de gestión del servidor.
    &middot; En cliente.c encontramos la estructura esencial de nuestro cliente, junto a la implementación de errores por parte del mismo y la lógica necesaria de comunicación
 
-# 7. Contribución
+
+# 7. Contribución.
 
     A la hora de contribuir con el proyecto, hay un par de opciones que no estan implementadas:
 
@@ -69,8 +74,8 @@
    &middot; Añadirle un .log por parte del servidor.
    &middot; Añadirle una interfaz gráfica.
 
-# 8. Notas a tener en cuenta
+
+# 8. Notas a tener en cuenta.
 
    &middot; Si a la hora de emparejar una partida,los barcos no se generan correctamente, reiniciar el cliente.
    &middot; Si un cliente falla el inicio de sesión, debera reiniciar el cliente.
-   &middot;
