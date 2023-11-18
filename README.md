@@ -42,7 +42,7 @@ Para instalar dicho programa simplemente realizamos los siguientes pasos:
 &middot; Ejectuar el binario del cliente ./cliente <ip>  
 
 
-#3 5. Ejemplos de Uso.
+## 5. Ejemplos de Uso.
 
     Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
 
