@@ -44,7 +44,7 @@ Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
 ## 5. Ejemplos de Uso.
 
-    Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
+Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
 
 &middot; Ejecutamos el 1º cliente en una terminal.
 &middot; Ejecutamos el 2º cliente en una terminal.
