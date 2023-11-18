@@ -1,5 +1,6 @@
 # Hundir la flota 
-![image](https://github.com/MaestroKesero/Hundir-la-flota/assets/90833008/9cfd3927-601e-4cc9-9843-927fb35d2b3a)
+![image](https://github.com/MaestroKesero/Hundir-la-flota/assets/90833008/ca7b2583-93f4-4a23-a7e7-6c84797cac92)
+
 
 # Índice
 
