@@ -20,18 +20,21 @@ Programa basado en el juego de mesa "Hundir la flota" el cual está programado e
 para el intercambio de informacion, en la que varios clientes estableceran conexión al mismo mediante un login y posteriormente establecerán
  partida.
 
----
+
+
 ## 2. Estado del Proyecto.
 
 El proyecto se encuentra en estado finalizado, con posibles nuevos cambios al mismo.
 
----
+
+
 ## 3. Requisitos del Sistema.
 
 Los requisitos principales para ejecutar dicho programa son:
 
 &middot; Disponer de las librerias GNU necesarias (principalmente un S.O basado en Linux)  
 &middot; Pertenecer a un segmento de red debido a el acceso al servidor por parte del cliente (puede correr en loopback)  
+
 
 
 ## 4. Instrucciones de Instalación.
