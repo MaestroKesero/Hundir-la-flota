@@ -1,4 +1,5 @@
-![Logo de Mi Proyecto](https://www.google.com/url?sa=i&url=http%3A%2F%2Far-entertainment.net%2Fwp%2Fes%2Fapp%2Fbatalla-naval-para-ninos%2F&psig=AOvVaw1YMBgYHeaGk6qpV5YaXU3f&ust=1700415471625000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDEzuaYzoIDFQAAAAAdAAAAABAS)
+
+![image](https://github.com/MaestroKesero/Hundir-la-flota/assets/90833008/395478fd-ad11-40a9-bb06-33f5df9929de)
 
 # Hundir la flota 
 
