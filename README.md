@@ -62,7 +62,7 @@ Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la sig
 &middot;6. Iniciamos partida en el 2º cliente.
 &middot; ¡ A disfrutar !
 
-![image](https://i.ibb.co/4spqcrT/Ejemplo1.png)
+<a href="https://ibb.co/4spqcrT"><img src="https://i.ibb.co/KNWPYvq/Ejemplo1.png" alt="Ejemplo1" border="0"></a>
 
 
 ## 6. Estructura del Proyecto.
