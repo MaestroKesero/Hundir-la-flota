@@ -1,6 +1,6 @@
 # Hundir la flota 
 ![image](https://github.com/MaestroKesero/Hundir-la-flota/assets/90833008/ca7b2583-93f4-4a23-a7e7-6c84797cac92)
-![image](https://i.ibb.co/r2rdn73/Ejemplo-2.png)
+<a href="https://ibb.co/zVv6KnF"><img src="https://i.ibb.co/r2rdn73/Ejemplo-2.png" alt="Ejemplo-2" border="0"></a>
 
 1. [Descripción Breve](#1-descripción-breve)
 2. [Estado del Proyecto](#2-estado-del-proyecto)
