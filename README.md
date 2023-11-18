@@ -1,8 +1,6 @@
 # Hundir la flota 
 ![image](https://github.com/MaestroKesero/Hundir-la-flota/assets/90833008/ca7b2583-93f4-4a23-a7e7-6c84797cac92)
-
-
-# Índice
+![image](https://i.ibb.co/r2rdn73/Ejemplo-2.png)
 
 1. [Descripción Breve](#1-descripción-breve)
 2. [Estado del Proyecto](#2-estado-del-proyecto)
@@ -41,23 +39,30 @@ Los requisitos principales para ejecutar dicho programa son:
 
 Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
-&middot; git clone https://github.com/MaestroKesero/Hundir-la-flota--/  
-&middot; Una vez dentro de la carpeta ejecutar make para compilar el Makefile asociado  
-&middot; Ejecutar el binario del servidor ./servidor   
-&middot; Ejectuar el binario del cliente ./cliente <ip>  
+     git clone https://github.com/MaestroKesero/Hundir-la-flota--/  
+     
+ &middot; Una vez dentro de la carpeta ejecutar make para compilar el Makefile asociado. 
+ &middot; Ejecutar el binario del servidor.
+ 
+    ./servidor   
+&middot; Ejectuar el binario del cliente.
+
+    ./cliente <ip>  
 
 
 ## 5. Ejemplos de Uso.
 
 Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
 
-&middot; Ejecutamos el 1º cliente en una terminal.
-&middot; Ejecutamos el 2º cliente en una terminal.
-&middot; Iniciamos sesion en el 1º cliente.
-&middot; Iniciamos partida en el 1º cliente.
-&middot; Iniciamos sesión en el 2º cliente.
-&middot; Iniciamos partida en el 2º cliente.
+&middot;1. Ejecutamos el 1º cliente en una terminal.
+&middot;2. Ejecutamos el 2º cliente en una terminal.
+&middot;3. Iniciamos sesion en el 1º cliente.
+&middot;4. Iniciamos partida en el 1º cliente.
+&middot;5. Iniciamos sesión en el 2º cliente.
+&middot;6. Iniciamos partida en el 2º cliente.
 &middot; ¡ A disfrutar !
+
+![image](https://i.ibb.co/4spqcrT/Ejemplo1.png)
 
 
 ## 6. Estructura del Proyecto.
