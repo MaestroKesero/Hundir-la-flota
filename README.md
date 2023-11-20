@@ -54,13 +54,13 @@ Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
 Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
 
-&middot;1. Ejecutamos el 1º cliente en una terminal.<br>
-&middot;2. Ejecutamos el 2º cliente en una terminal.<br>
-&middot;3. Iniciamos sesion en el 1º cliente.<br>
-&middot;4. Iniciamos partida en el 1º cliente.<br>
-&middot;5. Iniciamos sesión en el 2º cliente.<br>
-&middot;6. Iniciamos partida en el 2º cliente.<br>
-&middot; ¡ A disfrutar !<br>
+1. Ejecutamos el 1º cliente en una terminal.<br>
+2. Ejecutamos el 2º cliente en una terminal.<br>
+3. Iniciamos sesion en el 1º cliente.<br>
+4. Iniciamos partida en el 1º cliente.<br>
+5. Iniciamos sesión en el 2º cliente.<br>
+6. Iniciamos partida en el 2º cliente.<br>
+ ¡ A disfrutar !<br>
 
 <a href="https://ibb.co/4spqcrT"><img src="https://i.ibb.co/KNWPYvq/Ejemplo1.png" alt="Ejemplo1" border="0"></a>
 
