@@ -54,13 +54,13 @@ Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
 Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
 
-&middot;1. Ejecutamos el 1º cliente en una terminal.
-&middot;2. Ejecutamos el 2º cliente en una terminal.
-&middot;3. Iniciamos sesion en el 1º cliente.
-&middot;4. Iniciamos partida en el 1º cliente.
-&middot;5. Iniciamos sesión en el 2º cliente.
-&middot;6. Iniciamos partida en el 2º cliente.
-&middot; ¡ A disfrutar !
+&middot;1. Ejecutamos el 1º cliente en una terminal.<br>
+&middot;2. Ejecutamos el 2º cliente en una terminal.<br>
+&middot;3. Iniciamos sesion en el 1º cliente.<br>
+&middot;4. Iniciamos partida en el 1º cliente.<br>
+&middot;5. Iniciamos sesión en el 2º cliente.<br>
+&middot;6. Iniciamos partida en el 2º cliente.<br>
+&middot; ¡ A disfrutar !<br>
 
 <a href="https://ibb.co/4spqcrT"><img src="https://i.ibb.co/KNWPYvq/Ejemplo1.png" alt="Ejemplo1" border="0"></a>
 
@@ -69,23 +69,23 @@ Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la sig
 
 El proyecto se estrucutra en 3 ficheros principales.
     
-&middot; En servidor.c encontramos la logica esencial de nuestro servidor junto a los protocolos necesarios de ejecucción.
-&middot; En servidor.h encontramos las funciones esenciales de hundir la flota junto a la logica necesaria de gestión del servidor.
-&middot; En cliente.c encontramos la estructura esencial de nuestro cliente, junto a la implementación de errores por parte del mismo y la lógica necesaria de comunicación
+&middot; En servidor.c encontramos la logica esencial de nuestro servidor junto a los protocolos necesarios de ejecucción.<br>
+&middot; En servidor.h encontramos las funciones esenciales de hundir la flota junto a la logica necesaria de gestión del servidor.<br>
+&middot; En cliente.c encontramos la estructura esencial de nuestro cliente, junto a la implementación de errores por parte del mismo y la lógica necesaria de comunicación.<br>
 
 
 ## 7. Contribución.
 
 A la hora de contribuir con el proyecto, hay un par de opciones que no estan implementadas:
 
-&middot; La opcion de TOCADO-HUNDIDO no esta debidamente implmentada por problemas logicos.
-&middot; La opción de SALIR si un cliente esta esperando partida no funciona debido a la escucha del Socket.
-&middot; Faltaria encriptar los datos (si utilizamos un fichero en texto plano) o asociar una base de datos de usuarios, contraseñas, partida ganadas...
-&middot; Añadirle un .log por parte del servidor.
-&middot; Añadirle una interfaz gráfica.
+&middot; La opcion de TOCADO-HUNDIDO no esta debidamente implmentada por problemas logicos.<br>
+&middot; La opción de SALIR si un cliente esta esperando partida no funciona debido a la escucha del Socket.<br>
+&middot; Faltaria encriptar los datos (si utilizamos un fichero en texto plano) o asociar una base de datos de usuarios, contraseñas, partida ganadas...<br>
+&middot; Añadirle un .log por parte del servidor.<br>
+&middot; Añadirle una interfaz gráfica.<br>
 
 
 ## 8. Notas a tener en cuenta.
 
-&middot; Si a la hora de emparejar una partida,los barcos no se generan correctamente, reiniciar el cliente.
-&middot; Si un cliente falla el inicio de sesión, debera reiniciar el cliente.
+&middot; Si a la hora de emparejar una partida,los barcos no se generan correctamente, reiniciar el cliente.<br>
+&middot; Si un cliente falla el inicio de sesión, debera reiniciar el cliente.<br>
