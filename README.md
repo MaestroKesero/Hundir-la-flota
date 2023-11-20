@@ -60,7 +60,7 @@ Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la sig
 4. Iniciamos partida en el 1º cliente.<br>
 5. Iniciamos sesión en el 2º cliente.<br>
 6. Iniciamos partida en el 2º cliente.<br>
- ¡ A disfrutar !<br>
+¡ A disfrutar !<br>
 
 <a href="https://ibb.co/4spqcrT"><img src="https://i.ibb.co/KNWPYvq/Ejemplo1.png" alt="Ejemplo1" border="0"></a>
 
