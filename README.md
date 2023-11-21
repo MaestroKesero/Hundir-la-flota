@@ -18,8 +18,6 @@ Programa basado en el juego de mesa "Hundir la flota" el cual está programado e
 para el intercambio de informacion, en la que varios clientes estableceran conexión al mismo mediante un login y posteriormente establecerán
  partida.
 
-
-
 ## 2. Estado del Proyecto.
 
 El proyecto se encuentra en estado finalizado, con posibles nuevos cambios al mismo.
