@@ -47,7 +47,6 @@ Para instalar dicho programa simplemente realizamos los siguientes pasos:
 
     ./cliente <ip>  
 
-
 ## 5. Ejemplos de Uso.
 
 Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la siguiente forma:
@@ -61,7 +60,6 @@ Para poder jugar sin problemas a hundir la flota, deberemos de hacerlo de la sig
 ¡ A disfrutar !<br>
 
 <a href="https://ibb.co/4spqcrT"><img src="https://i.ibb.co/KNWPYvq/Ejemplo1.png" alt="Ejemplo1" border="0"></a>
-
 
 ## 6. Estructura del Proyecto.
 
