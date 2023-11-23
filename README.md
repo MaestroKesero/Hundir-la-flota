@@ -11,7 +11,6 @@
 7. [Contribución](#7-contribución)
 8. [Notas a tener en cuenta](#8-notas-a-tener-en-cuenta)
 
-
 ## 1. Descripción Breve.
 
 Programa basado en el juego de mesa "Hundir la flota" el cual está programado en C haciendo uso de estructura Cliente-Servidor usando sockets
@@ -21,8 +20,6 @@ para el intercambio de informacion, en la que varios clientes estableceran conex
 ## 2. Estado del Proyecto.
 
 El proyecto se encuentra en estado finalizado, con posibles nuevos cambios al mismo.
-
-
 
 ## 3. Requisitos del Sistema.
 
